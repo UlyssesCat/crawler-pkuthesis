@@ -12,3 +12,6 @@ https://googlechromelabs.github.io/chrome-for-testing/
 
 # 执行代码
 替换thsis_url变量，执行
+替换方法
+https://thesis.lib.pku.edu.cn/docinfo.action?id1={{RESPONSE.id1}}&id2={{RESPONSE.id2}}
+![img.png](img.png)
